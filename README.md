@@ -1,9 +1,8 @@
 # Contentful Country Select UI Extension
-======================================
 
-Auto-complete Spotify search as [Contentful UI Extension](https://www.contentful.com/developers/docs/concepts/uiextensions/).
+A country language code select as [Contentful UI Extension](https://www.contentful.com/developers/docs/concepts/uiextensions/).
 
-![figure](https://raw.githubusercontent.com/contentful-developer-relations/ui-country-select/master/demo.gif "Spotify search Contentful UI Extension demo")
+![figure](https://raw.githubusercontent.com/contentful-developer-relations/ui-country-select/master/demo.gif "Country select Contentful UI Extension demo")
 
 ## Installation
 
