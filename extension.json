@@ -1,0 +1,6 @@
+{
+  "name": "Contentful UI extension country select",
+  "id": "cf-contentful-ui-country-select",
+  "fieldTypes": ["Symbol"],
+  "srcdoc": "./index.html"
+}
